@@ -1,0 +1,11 @@
+{
+    "name": "Screen Recorder Extension for Chrome",
+    "version": "1.0.0",
+    "description": "Screen Recorder extension helps you record video from the computer's screen.",
+    "manifest_version": 3,
+    "author": "Anvit Mirjurkar, Anurag Singh, Pratham Dhanesha",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Screen Recorder"
+    }
+}
